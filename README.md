@@ -1,1 +1,1 @@
-<https://github.com/korney-by/rsschool-cv/cv>
+<https://korney-by.github.io/rsschool-cv/cv>
